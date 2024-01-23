@@ -28,8 +28,8 @@ Eğitilmiş modeli [buradan](https://drive.google.com/file/d/1c4wG1VGJSpiwkxuRnG
 
 ## Örnekler
 
-![App Screenshot](https://github.com/VuralBayrakli/seq2seq/ss1.jpg)
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
 
-![App Screenshot](https://github.com/VuralBayrakli/seq2seq/ss2.jpg)
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
 
-![App Screenshot](https://github.com/VuralBayrakli/seq2seq/ss3.jpg)
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
