@@ -30,6 +30,6 @@ Eğitilmiş modeli [buradan](https://drive.google.com/file/d/1c4wG1VGJSpiwkxuRnG
 
 ![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
 
-![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss2.png)
 
-![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss1.png)
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-classification/blob/master/ss/ss3.png)
