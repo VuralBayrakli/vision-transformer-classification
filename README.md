@@ -1,5 +1,5 @@
 
-# Sequence to Sequence Yöntemiyle Türkçe-İngilizce Çeviri
+# Vision Transformer ile Ateş Sınıflandırma
 
 Bu projede Vision Transformer mimarisi kullanılmıştır. Vision Transformer, büyük boyutlu görüntüleri daha etkili bir şekilde temsil etmek için dikkat mekanizmalarını içerir.
 
